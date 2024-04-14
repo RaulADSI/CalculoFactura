@@ -1,7 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
- */
+
 package factura;
 
 import java.text.NumberFormat;
@@ -9,7 +6,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author strategic
+ * @author Raul Torres R
  */
 public class Factura extends javax.swing.JFrame {
 
